@@ -8,15 +8,12 @@
 		min-height: calc(100vh);
 		min-width: max-content;
 	}
-	.footer {
-		position: fixed;
-		bottom: 0;
-		width: 100vh;
-	}
+	
+	
 </style>
 <main id="FOO">
 	<slot />
-	<Footer />	
+	
 </main>
-
+<Footer />	
 

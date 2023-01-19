@@ -1,6 +1,17 @@
+
+
+<script>
+	
+</script>
+
+<style>
+
+
+</style>
+
 <div class="p-6 md:pt-24 mt-24 sm:mt-18 md:m-24 h-[80vh]">
     <div class="flex flex-col justify-between h-full">
-        <div>
+        <div class="noise">
             <h1 
                 class="
                     text-6xl sm:text-8xl font-extrabold font-sans
@@ -11,6 +22,7 @@
                 <h6>Consulting</h6>
             </div>
         </div>
+        
         <div class="flex flex-col prose ml-8 mt-24 md:flex-row justify-start items-start md:items-center">
             <h2 class="m-0 mr-20 mb-8 md:mb-0">Portfolio</h2>
                 <h4 class="m-0 ml-4 md:ml-0 mr-4 text-transparent bg-clip-text bg-gradient-to-br from-primary to-primary-content">cvcentral.io</h4>
