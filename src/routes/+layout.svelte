@@ -5,13 +5,13 @@
 
 <style>
 	main {
-		min-height: calc(100vh);
-		min-width: max-content;
+		min-height: calc(90vh);
+		min-width: calc(90vw);
 	}
 	
 	
 </style>
-<main id="FOO">
+<main class="">
 	<slot />
 	
 </main>
