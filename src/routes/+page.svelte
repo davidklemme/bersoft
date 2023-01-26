@@ -1,3 +1,7 @@
+<script>
+	import Skyline from "$lib/Components/Skyline.svelte";
+
+</script>
 
 
 <div class="p-6 md:pt-24 mt-24 sm:mt-18 md:m-24 h-[80vh]">
@@ -15,6 +19,11 @@
                     <h4>Software</h4>
                     <h4>Consulting</h4>
                 </div>
+            </div>
+            <div class="flex w-full h-full items-start justify-end ">
+                
+                    <Skyline />
+                
             </div>
         </div>
             <div class="flex flex-col prose ml-8 mt-24 md:flex-row justify-start items-start md:items-center">
