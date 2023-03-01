@@ -1,6 +1,7 @@
 <script>
 	import '../app.css';
 	import Footer from '../../src/lib/Components/Footer.svelte';
+	import SlideOver from '$lib/Components/SlideOver.svelte';
 </script>
 
 <style>
