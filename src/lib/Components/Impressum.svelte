@@ -4,7 +4,7 @@
     <p class="pb-24">(haftungsbeschränkt)</p>
     <p class="font-light">Geschäftsführer: David Klemme</p>
     <p class="my-4"></p>
-    <p class="font-light">Kolonnenstr.28, </p>
+    <p class="font-light">Kolonnenstr.28</p>
     <p class="font-light">10827 Berlin</p>
     <p class="my-4"></p>
     <p class="font-light">HRB 37643</p>
