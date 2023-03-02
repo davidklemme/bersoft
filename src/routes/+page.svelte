@@ -7,7 +7,7 @@ import Skyline from "$lib/Components/Skyline.svelte";
 
 
 <div class="p-6 md:pt-24 mt-24 sm:mt-18 md:m-24 h-[80vh]">
-    <div class="flex items-start justify-between">
+    <div class="flex items-start justify-between h-full">
     <div class="flex flex-col justify-between h-full">        
         <div class="flex justify-between">
             <div>
